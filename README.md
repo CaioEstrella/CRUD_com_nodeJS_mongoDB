@@ -1,6 +1,18 @@
 # CRUD_com_noteJS_mongoDB
 api desenvolvida para get, put, delete, update de um bd dos planetas extraídos de The Star Wars API (https://swapi.co/)
 
+*** Requisitos (modulos não inclusos neste repositório) ***
+-NodeJS
+-ExpressJS
+-Mongoose
+-Body-parser
+
+******************************
+TESTADO EM POSTMAN
+Banco localizado na nuvem em https://mlab.com/databases/starwarsbd
+
+---------------------------------------------------------------------------------------------------
+
 Banco salvo em mlab.com com foco nos planetas e dados de nome, clima e terreno no Schema :
 
 {
