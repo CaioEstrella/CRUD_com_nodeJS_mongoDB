@@ -1,10 +1,10 @@
 ***rotas***
 porta 4000
 
-get banco todo (localhost:4000/api/planetas)
-get id (.../api/planetas/id/:id)
-get nome(.../api/planetas/nome/:nome)
-get numero de filmes(.../api/planetas/filmes/:filmes)
+get todos os planetas (localhost:4000/api/planetas)
+get por id (.../api/planetas/id/:id)
+get por nome(.../api/planetas/nome/:nome)
+get por numero de filmes(.../api/planetas/filmes/:filmes)
 post (.../api/planetas)
 put por id (.../api/planetas/id/:id)
 delete por id (.../api/planetas/id/:id)
