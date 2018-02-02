@@ -1,0 +1,9 @@
+***rotas***
+
+get banco todo (localhost:4000/api/planetas)
+get id (.../api/planetas/id/:id)
+get nome(.../api/planetas/nome/:nome)
+get numero de filmes(.../api/planetas/filmes/:filmes)
+post (.../api/planetas)
+put por id (.../api/planetas/id/:id)
+delete por id (.../api/planetas/id/:id)

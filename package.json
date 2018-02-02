@@ -1,0 +1,23 @@
+{
+  "name": "api",
+  "version": "0.0.1",
+  "description": "api para projeto b2w",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rest",
+    "restful",
+    "b2w"
+  ],
+  "author": "Caio Estrella",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-promise-router": "^3.0.1",
+    "mongoose": "^5.0.2",
+    "validator": "^9.4.0"
+  }
+}
