@@ -1,5 +1,5 @@
 # CRUD_com_noteJS_mongoDB
-< Mudar conexão com a nuvem apra conexão local. Comente a conexão com mLab e descomente conexão local e faça uma com mongod.exe e mongo.exe. Ao executar get/id/<numeroid>, retorna-se um JSON vazio. Parece ocorrer algum problema com a id na nuvem > 
+< Mudar conexão com a nuvem para conexão local. Comente a conexão com mLab e descomente conexão local (linhas 12 e 9 respectivamente no arquivo app.js) e abra uma com mongod.exe e mongo.exe. Ao executar get/id/<numeroid>, retorna-se um JSON vazio. Parece ocorrer algum problema com a id na nuvem > 
 
 
 api desenvolvida para get, put, delete, update de um bd dos planetas extraídos de The Star Wars API (https://swapi.co/)
