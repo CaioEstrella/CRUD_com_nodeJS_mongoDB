@@ -1,4 +1,5 @@
 ***rotas***
+porta 4000
 
 get banco todo (localhost:4000/api/planetas)
 get id (.../api/planetas/id/:id)
