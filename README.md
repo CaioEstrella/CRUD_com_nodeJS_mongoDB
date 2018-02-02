@@ -8,7 +8,8 @@ api desenvolvida para get, put, delete, update de um bd dos planetas extraídos 
 -Body-parser
 
 ******************************
-TESTADO EM POSTMAN --> para rotas, ler arquivo ROTAS.TXT
+TESTADO EM POSTMAN --> para rotas, ler arquivo ROTAS.TXT.
+----------------
 Banco localizado na nuvem em https://mlab.com/databases/starwarsbd
 
 
